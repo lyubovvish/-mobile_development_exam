@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">exam</string>
+    <string name="name">Эндрю (Энди)</string>
+    <string name="surname">Рубин</string>
+    <string name="minimalInfo">Американский программист, инженер, предприниматель и венчурный капиталист, ведущий разработчик операционной системы Android</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back">Back</string>
+</resources>
